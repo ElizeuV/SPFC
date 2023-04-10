@@ -26,6 +26,7 @@ body {
     justify-content: space-evenly;
     list-style: none;
     padding: 2.5%;
+    gap: 10px;
 }
 
 
